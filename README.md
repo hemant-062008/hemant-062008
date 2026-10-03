@@ -1,16 +1,178 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**hemant-062008/hemant-062008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Hemant%20Kushwaha&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CSE%20Undergraduate%20%7C%20Data%20Science%20%7C%20Machine%20Learning&descAlignY=55&descSize=18" width="100%"/>
 
-Here are some ideas to get you started:
+<a href="https://github.com/hemant-062008">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/hemant-kushwaha-654b91327">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=764ABA&center=true&vCenter=true&width=600&lines=Building+strong+CS+fundamentals;Learning+Python+%2B+Data+Science;Exploring+Machine+Learning;One+step+at+a+time." alt="Typing SVG" />
+
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+I'm a Computer Science undergraduate at the beginning of my college journey, focused on building strong fundamentals in:
+
+- 💻 Programming & Computer Science
+- 🐍 Python
+- 📊 Mathematics, Statistics & Probability
+- 🤖 Machine Learning
+- 📈 Data Science & Analytics
+- 🔬 Research-oriented Computer Science
+
+I'm pursuing a B.Tech, with a long-term interest in machine learning, data science, software engineering, and research.
+
+I believe in learning by understanding concepts deeply, building things, experimenting, and solving problems.
+
+> 🚀 Currently at the beginning of my journey — building the foundations today for more ambitious projects tomorrow.
+
+---
+
+### 🎓 Education
+
+| Degree | Institution |
+|---|---|
+| 🎓 B.Tech — Computer Science & Engineering | — |
+---
+
+### 🔭 What I'm Working On
+
+As a first-year student, I'm currently focusing on building the fundamentals that will support my future projects.
+
+- 🐍 Learning Python & programming fundamentals
+- 📐 Strengthening mathematics and linear algebra
+- 📊 Learning probability & statistics
+- 🧠 Understanding Machine Learning fundamentals
+- 💻 Practicing Data Structures & Algorithms
+- 🛠️ Learning Git, GitHub & software development workflows
+- 🔬 Exploring research-oriented problems in Computer Science
+
+---
+
+### 📚 Current Learning Roadmap
+
+
+Programming
+    ↓
+Data Structures & Algorithms
+    ↓
+Mathematics + Statistics
+    ↓
+Data Analysis
+    ↓
+Machine Learning
+    ↓
+Deep Learning
+    ↓
+Research & Advanced Projects
+
+
+*Currently Learning*
+
+| Area | Focus |
+|------|-------|
+| 🐍 Python | Programming fundamentals & problem solving |
+| 💻 DSA | Data structures & algorithms |
+| 📐 Mathematics | Linear Algebra & mathematical foundations |
+| 📊 Statistics | Probability & Statistics |
+| 📈 Data Science | Data analysis & visualization |
+| 🤖 ML | Machine Learning fundamentals |
+| 🔧 Tools | Git, GitHub & VS Code |
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+*Languages*
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c" />
+
+*Tools & Technologies*
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+*Exploring*
+
+<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn" />
+
+</div>
+
+> I'm actively learning these technologies rather than claiming advanced expertise.
+
+---
+
+### 📂 Projects
+
+*🌱 Building From Zero*
+
+I recently started my college journey, so I don't have a large project portfolio yet.
+
+Instead of filling this section with artificial or copied projects, I'm focusing on learning the fundamentals properly and gradually turning what I learn into real projects.
+
+*Coming Soon*
+
+- 📊 Data Analysis Projects
+- 🐍 Python Projects
+- 🤖 Machine Learning Projects
+- 🧠 DSA Implementations
+- 🔬 Research-oriented Experiments
+
+The goal: fewer projects, better understanding.
+
+---
+
+### 🎯 Long-Term Goals
+
+- 💻 Build strong Computer Science fundamentals
+- 🧠 Become a strong problem solver
+- 📊 Develop expertise in Data Science & Machine Learning
+- 🚀 Build meaningful technical projects
+- 🌍 Contribute to open source
+- 🔬 Explore Computer Science research
+- 📚 Continuously learn beyond the college curriculum
+
+---
+
+### 📚 Learning Philosophy
+
+I don't want to learn technologies just to add them to a list.
+
+My focus is on understanding why things work, implementing what I learn, and gradually turning that knowledge into useful projects.
+
+This profile will evolve as I build, experiment, contribute to open source, and explore research.
+
+---
+
+### 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/hemant-kushwaha-654b91327">
+  <img src="https://img.shields.io/badge/LinkedIn-Hemant%20Kushwaha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;&nbsp;&nbsp;
+
+<br/><br/>
+
+</div>
+
+---
+
+<div align="center">
+
+💡 Learning → Building → Experimenting → Researching
+
+One step at a time.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" width="100%"/>
+
+</div>
